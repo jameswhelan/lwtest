@@ -1,7 +1,8 @@
 # LendWell Design System
 
-Pixel-perfect React component library for [Lovable](https://lovable.dev/) and [Zero Height](https://zeroheight.com/). Aligned with the LendWell Figma design systems:
+Pixel-perfect React component library for [Lovable](https://lovable.dev/) and [Zero Height](https://zeroheight.com/). Aligned with the LendWell Figma file (same file key `WXFH6NEl569UGViyMq7vZr`):
 
+- **[Design System](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/Design-System)** — canonical source
 - [LendWell Design System](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/LendWell-Design-System)
 - [Design System 2.0](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/Design-System-2.0)
 
