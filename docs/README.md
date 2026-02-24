@@ -13,6 +13,7 @@ Design documentation is also available via **Zero Height MCP**. To let Lovable (
 ## In-repo docs
 
 - **[FOUNDATION.md](./FOUNDATION.md)** — Foundation: design tokens, principles, and usage (synced from Zero Height when possible).
+- **[LOVABLE-PROMPT-FOR-PROTOTYPERS.md](./LOVABLE-PROMPT-FOR-PROTOTYPERS.md)** — Copy-paste prompt for prototypers to give Lovable so it uses the design system faithfully and can add new components that follow the same patterns.
 - **Component rules** — See `.lovable/rules/components/` for per-component usage.
 - **System overview** — See `.lovable/system.md` for installation and guidelines.
 
