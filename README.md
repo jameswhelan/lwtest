@@ -1,6 +1,9 @@
 # LendWell Design System
 
-Pixel-perfect React component library for [Lovable](https://lovable.dev/) and [Zero Height](https://zeroheight.com/). Based on the [LendWell Design System in Figma](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/LendWell-Design-System).
+Pixel-perfect React component library for [Lovable](https://lovable.dev/) and [Zero Height](https://zeroheight.com/). Aligned with the LendWell Figma design systems:
+
+- [LendWell Design System](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/LendWell-Design-System)
+- [Design System 2.0](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/Design-System-2.0)
 
 ## Stack
 
@@ -59,7 +62,7 @@ Open http://localhost:5173 for the component showcase.
 
 ## Syncing from Figma
 
-1. Open [LendWell Design System](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/LendWell-Design-System) in Figma desktop
+1. Open the [LendWell file](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/) (Design System or Design System 2.0) in Figma desktop
 2. Enable Dev Mode → MCP server
 3. Run `get_variable_defs` and `get_design_context` for specs
 4. Update `src/tokens/tokens.css` with exact values

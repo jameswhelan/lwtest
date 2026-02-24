@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "LendWell Design System - React components for Zero Height & Lovable",
+  "repository": "https://github.com/jameswhelan/lwtest",
   "main": "./src/index.ts",
   "exports": {
     ".": "./src/index.ts",

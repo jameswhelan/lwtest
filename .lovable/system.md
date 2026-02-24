@@ -45,6 +45,7 @@ Button, Input, Textarea, Select, Checkbox, Radio, RadioGroup, Switch, Card (with
 
 ## Figma Source
 
-[LendWell Design System](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/LendWell-Design-System)
+- [LendWell Design System](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/LendWell-Design-System)
+- [Design System 2.0](https://www.figma.com/design/WXFH6NEl569UGViyMq7vZr/Design-System-2.0)
 
 Sync tokens from Figma Variables (get_variable_defs) or inspect design specs. Update `src/tokens/tokens.css` with exact values for pixel-perfect match.
