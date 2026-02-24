@@ -55,11 +55,18 @@ Open http://localhost:5173 for the component showcase.
 4. Connect this design system in Project Settings → Design Systems
 5. Lovable will use these components for pixel-perfect prototypes
 
+**Zero Height MCP (optional):** To give Lovable access to your Zero Height documentation (e.g. Foundation), add the Zero Height MCP server in your MCP client configuration:
+
+- URL: `https://mcp.zeroheight.com/mcp/18c7b5557ef8a3ad69550fa987841f9fec1d6a52`
+
+Design system docs are also in `docs/` (see [docs/README.md](docs/README.md) and [docs/FOUNDATION.md](docs/FOUNDATION.md)).
+
 ## For Zero Height
 
 1. Connect Figma and this repo in Zero Height
 2. Map Figma components to these React implementations
 3. Use design tokens for documentation sync
+4. Foundation: [zeroheight.com/3962705dc/p/799007-foundation](https://zeroheight.com/3962705dc/p/799007-foundation)
 
 ## Syncing from Figma
 
@@ -76,4 +83,10 @@ src/
 ├── tokens/
 ├── lib/
 └── App.tsx (showcase)
+docs/
+├── README.md      # Doc overview + Zero Height MCP URL
+└── FOUNDATION.md # Foundation (tokens, principles); sync from Zero Height when possible
+.lovable/
+├── system.md     # Installation & guidelines for Lovable
+└── rules/        # Per-component and styling rules
 ```

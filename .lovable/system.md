@@ -31,6 +31,7 @@
 - `src/components/` — All React components. Import from `./components` or individual paths.
 - `src/tokens/tokens.css` — Design tokens. Sync from Figma Variables.
 - `src/lib/cn.ts` — `cn()` for merging class names.
+- `docs/` — Design system documentation. See `docs/FOUNDATION.md` for tokens and principles. Zero Height MCP: `https://mcp.zeroheight.com/mcp/18c7b5557ef8a3ad69550fa987841f9fec1d6a52` (add as MCP server for full Zero Height docs).
 
 ## Components Available
 
